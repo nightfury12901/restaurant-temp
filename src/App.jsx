@@ -821,9 +821,9 @@ const Gallery = () => {
 
   const images = [
     "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
-    "https://images.unsplash.com/photo-1551782450-17144efb5723?w=800",
+    "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
     "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
-    "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+    "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
     "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800",
     "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800"
   ]
